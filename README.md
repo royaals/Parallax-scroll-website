@@ -8,9 +8,7 @@ Website link - https://royaals.github.io/Parallax-scroll-website/
 
 ## Demo
 
-
-
-https://postimg.cc/7G6vmmhB
+![ezgif com-video-to-gif](https://github.com/royaals/Parallax-scroll-website/assets/104627535/4c47c580-1cfa-4f99-97ee-61b843fd39cc)
 ## Tech Stack
 
 **Front-end:** HTML, CSS, JavaSript
