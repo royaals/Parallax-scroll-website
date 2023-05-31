@@ -24,6 +24,7 @@ Documentation: To get started with the Parallax Scroll Website, follow these ste
 
 1.	Clone the Repository: Clone the project repository from the provided source code.
 2.	File Structure: Familiarize yourself with the project file structure. The main files include:
+
 •	index.html: Contains the HTML structure of the website.
 
 •	style.css: Defines the styles and layout for the web pages.
