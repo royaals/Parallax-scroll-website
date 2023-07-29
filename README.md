@@ -76,11 +76,11 @@ Documentation: To get started with the Parallax Scroll Website, follow these ste
 
 **Programming Language:** C, C++, Java, Python
 
-**Front-end:** HTML, CSS, JavaScript 
+**Front-end:** HTML, CSS, JavaScript, React.js
 
-**Back-end:** Django
+**Back-end:** Node.js, Express, Django
 
-**Database:** MySQL
+**Database:** MongoDB, MySQL
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/royaals/Personal-Portfolio)
