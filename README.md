@@ -68,29 +68,5 @@ Documentation: To get started with the Parallax Scroll Website, follow these ste
 
 
 
-# Hi, I'm Royal! 👋
-
-
-## 🛠 Skills
-
-
-**Programming Language:** C, C++, Java, Python
-
-**Front-end:** HTML, CSS, JavaScript, React.js
-
-**Back-end:** Node.js, Express, Django
-
-**Database:** MongoDB, MySQL
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/royaals/Personal-Portfolio)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royal-s)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RoyalSalins?t=p5gofDCS1vnbUB89e_A_-A&s=09)
-
-
-## Contributing
-
-Contributions are always welcome!
-
 
 
